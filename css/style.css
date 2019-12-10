@@ -1245,8 +1245,8 @@ input:checked + .slide-container .nav label { display: block; }
 span.arrow-icon {
   transform: rotate(270deg);
   display: inline-block;
-  font-size: 33px;
-  margin-top: 5px;
+  font-size: 25px;
+  margin-top: 11px;
   margin-right: 2px;
 }
 span.arrow-icon:hover {
