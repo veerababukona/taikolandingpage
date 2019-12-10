@@ -1436,6 +1436,10 @@ input#myInput:focus {
   button.toggle-nav {
     display: none;
   }
+  ul.slides {
+    height: 400px;
+    margin-top: 20px;
+  }
 }
 
 @media (max-width: 768px) {
