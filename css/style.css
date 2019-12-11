@@ -1336,6 +1336,7 @@ input#myInput:focus {
 
   #services .description {
     min-height: 112px;
+
   }
   .footer-content {
     padding: 0px 180px;
@@ -1394,6 +1395,7 @@ input#myInput:focus {
   #services .description {
     font-size: 18px;
     min-height: 170px;
+    line-height: 24px;
   }
   .section-header h3 {
     margin-bottom: 30px;
